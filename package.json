@@ -1,0 +1,14 @@
+{
+  "name": "อิเมียเบอร์1",
+  "version": "1.0.0",
+  "description": "แชทบอทคุยเล่นกับเพื่อนด้วยGemini",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/genai": "^0.1.1",
+    "@line/bot-sdk": "^7.5.2",
+    "express": "^4.19.2"
+  }
+}
